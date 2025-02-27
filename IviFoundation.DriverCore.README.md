@@ -21,14 +21,10 @@ The interface in the assembly of this NuGet package provides generally useful ut
 
 The **IviDriverCore** Shared Components are used to develop and use IVI.NET Framework and .NET 6.0+ drivers. These shared components provide a standardized set of services that are common across all IVI .NET Framework and .NET 6.0+ drivers, ensuring consistency and compatibility when combining drivers and software from various vendors.
 
-These components target .NET Standard 2.0.
-
 ## Key Features
 
-- IVI Driver Core Specification version 1.0
-- Dual-targeted support
-  - .NET Framework 4.6.2
-  - .NET 6.0+
+- IVI Driver .NET Specification version 1.0
+- Target .NET Standard 2.0
 
 ## Usage Example
 
