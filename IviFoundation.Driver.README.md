@@ -11,7 +11,7 @@
 <!-- Following MD is the README.MD file -->
 # IVI Driver CSSC
 
-The IVI Driver CSSC (Configurable Settings Shared Components) package contains libraries for the development and use of drivers that are migrated from IVI Generation 2014.
+The IVI Driver CSSC (Configurable Settings Shared Components) packages contain libraries for the development and use of drivers that are migrated from IVI Generation 2014.
 
 The interfaces and libraries in this package are for base IVI Driver behaviors. The [IVI Foundation](https://ivifoundation.org/specifications/default.html) website has details on the definition of the APIs.
 
